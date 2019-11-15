@@ -22,7 +22,7 @@ print("#################################")
 #validacion
 bonus=(total>100.0)
 
-#condicional simple
+#condicional doble
 if(bonus==True):
     print("GANASTE UN SHAMPO!")
 #fin_if
