@@ -24,3 +24,5 @@ print("#################################")
 if(mochila_pesada==True):
     print("mochila pesada !sobrepeso! ")
 #fin_if
+else:
+    print("Mochila liviana")
