@@ -20,9 +20,10 @@ print("# comida:",comida)
 print("# mochila de supervivencia:",mochila_supervivencia,"Kg")
 print("#################################")
 
-#condicional simple
+#condicional doble
 if(mochila_pesada==True):
     print("mochila pesada !sobrepeso! ")
 #fin_if
 else:
     print("Mochila liviana")
+#fin_else
