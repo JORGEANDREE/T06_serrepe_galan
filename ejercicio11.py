@@ -14,4 +14,6 @@ aprobado=(promedio>10.5)
 #condicional simple
 if(aprobado==True):
     print("APROBADO")
+else:
+    print("DESAPROBADO")
 #fin_if
