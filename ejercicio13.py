@@ -21,7 +21,7 @@ print("# correos reciidos:",correos_recibidos)
 print("# salir ")
 print("#################################")
 
-#condicional simple
+#condicional doble
 if(correos_excesivos==True):
     print("Bandeja llena !ELIMINE ARCHIVOS! ")
 #fin_if
