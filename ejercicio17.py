@@ -22,7 +22,7 @@ print("# Trabajos de matematica:",trabajos_de_matematica)
 print("# Total de Tareas:",total_tareas)
 print("#################################")
 
-#condicional simple
+#condicional doble
 if(tareas_excesivas==True):
     print("!exceso de tareas ! ")
 #fin_if
