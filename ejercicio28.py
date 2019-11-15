@@ -39,6 +39,6 @@ if(total_pagar<1000):
 if(total_pagar>1000 and total_pagar<2000):
     print("compras medias")
 #fin_if
-if(total_pagar=>2000 and total_pagar<3000):
+if(total_pagar>=2000 and total_pagar<3000):
     print("compras excesivas")
 #fin_if
