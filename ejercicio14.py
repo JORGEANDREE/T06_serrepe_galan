@@ -19,7 +19,7 @@ print("#################################")
 #validacion
 bono=(sueldo>2000)
 
-#condicional simple
+#condicional doble
 if(bono==True):
     print("ganaste un bono de 500 soles")
 #fin_if
