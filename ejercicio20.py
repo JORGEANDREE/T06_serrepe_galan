@@ -19,7 +19,7 @@ print("#################################")
 #validacion
 exceso_de_animales=(total_granja>50)
 
-#condicional simple
+#condicional doble
 if(exceso_de_animales==True):
     print("GRANJA LLENA")
 #fin_if
