@@ -11,7 +11,7 @@ promedio=(nota1+nota2+nota3)/3
 #validacion
 aprobado=(promedio>10.5)
 
-#condicional simple
+#condicional multiple
 if(aprobado==True):
     print("APROBADO")
 #fin_if
