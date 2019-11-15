@@ -23,9 +23,9 @@ print("#################################")
 if(total<100):
     print("GANASTE UN VALE DE 10$ EN PRODCUTOS DE ASEO PERSONAL!")
 #fin_if
-if(total<=100 and total<200):
+if(total>=100 and total<200):
     print("GANASTE UN VALE DE 20$ EN PRODCUTOS DE ASEO PERSONAL!")
 #fin_if
-if(total<=200 and total<300):
+if(total>=200 and total<300):
     print("GANASTE UN VALE DE 30$ EN PRODCUTOS DE ASEO PERSONAL!")
 #fin_if
