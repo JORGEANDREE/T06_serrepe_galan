@@ -33,9 +33,11 @@ print("##############################################")
 
 #validacion
 comprador_compulsivo=(total_pagar>1000)
-#condicional simple
+
+#condicional doble
 if(comprador_compulsivo==True):
     print("Comprador compulsivo")
 #fin_if
 else:
     print("contole sus compras")
+#fin_else
