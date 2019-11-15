@@ -17,7 +17,7 @@ print("#################################")
 #validacion
 vale=(nro_tickes>100.0)
 
-#condicional simple
+#condicional doble
 if(vale==True):
     print("GANASTE 1 VALE PARA UN JUEGO MAS")
 #fin_if
