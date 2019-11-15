@@ -20,7 +20,7 @@ print("#################################")
 #validcion
 meta=(km_recorridos>100)
 
-#condicional simple
+#condicional doble
 if(meta==True):
     print("¡WINNER!")
 #fin_if
