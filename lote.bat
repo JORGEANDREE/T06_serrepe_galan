@@ -62,7 +62,7 @@ python serrepe/ejercicio21.py 14.3 13.4 15.0
 python serrepe/ejercicio21.py 17. 19.4 18.7
 python serrepe/ejercicio21.py 16.0 16.9 16.0
 python serrepe/ejercicio22.py 10.0 2.0
-python serrepe/ejercicio22.py 40.0 1.5
+python serrepe/ejercicio22.py 28.0 1.5
 python serrepe/ejercicio22.py 60.5 2.5
 python serrepe/ejercicio23.py "jhper@g.mail.com" "3456" 3 5
 python serrepe/ejercicio23.py "derft@g.mail.com" "hol1234" 15 25
@@ -72,7 +72,7 @@ python serrepe/ejercicio24.py "piero" 6 300
 python serrepe/ejercicio24.py "moises" 10 280
 python serrepe/ejercicio25.py  1 3 14 2 4 3
 python serrepe/ejercicio25.py  10 5 17 2 3 5
-python serrepe/ejercicio25.py  10 12 6 6 4 15
+python serrepe/ejercicio25.py  10 2 7 10 14 15
 python serrepe/ejercicio26.py "thalia" 6.4 2
 python serrepe/ejercicio26.py "rodrigo" 24.5 2
 python serrepe/ejercicio26.py "jefrry" 7.4 7
@@ -82,10 +82,10 @@ python serrepe/ejercicio27.py "jaime" 2 3 4
 python serrepe/ejercicio27.py "elsa" 5 6 6
 python serrepe/ejercicio28.py "tania" "fredyy" 14 31 10 10 10 4
 python serrepe/ejercicio28.py "jorge" "kasandra" 20 15 12 10 12 50
-python serrepe/ejercicio28.py "milagros" "sandra" 34 15 10 30 17 50
-python serrepe/ejercicio9.py "vania"  5 4
-python serrepe/ejercicio9.py "ana"  13 8
-python serrepe/ejercicio9.py "maria"  16 28
+python serrepe/ejercicio28.py "milagros" "sandra" 34 17 15 30 17 50
+python serrepe/ejercicio29.py "vania"  5 4
+python serrepe/ejercicio29.py "ana"  13 8
+python serrepe/ejercicio29.py "maria"  16 28
 python serrepe/ejercicio30.py 0 0 0
 python serrepe/ejercicio30.py 5  7 6
 python serrepe/ejercicio30.py 12 14 20
