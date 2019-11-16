@@ -11,7 +11,7 @@ km_recorridos=km_de_pista*nro_vueltas
 #impresion
 print("#################################")
 print("#############CARRERAS############")
-print("# piloto:",piloto)
+print("# Piloto:",piloto)
 print("# km de pista:",km_de_pista)
 print("# nmro de vueltas:",nro_vueltas)
 print("# km recorridos:",km_recorridos)
