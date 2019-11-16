@@ -69,4 +69,4 @@ python serrepe/ejercicio23.py "derft@g.mail.com" "hol1234" 15 25
 python serrepe/ejercicio23.py "python@g.mail.com" "feliz234" 30 40
 python serrepe/ejercicio24.py "andree" 3 300
 python serrepe/ejercicio24.py "piero" 6 300
-python serrepe/ejercicio24.py "moises" 12 100
+python serrepe/ejercicio24.py "moises" 10 280

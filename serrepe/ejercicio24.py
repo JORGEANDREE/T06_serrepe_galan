@@ -17,7 +17,7 @@ print("# sueldo:",sueldo)
 print("#################################")
 
 #condicional multiple
-if(sueldo>1000):
+if(sueldo<1000):
     print("ganaste un bono de 500 soles")
 #fin_if
 if(sueldo>=1000 and sueldo<2000):
