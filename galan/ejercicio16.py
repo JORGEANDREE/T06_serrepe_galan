@@ -16,7 +16,7 @@ print("el peso es:",peso)
 #validacion
 peso_maximo=(peso>80)
 
-#condicional simple
+#condicional doble
 if(peso_maximo==True):
     print("EL PESO ES MAXIMO")
 #fin_if
