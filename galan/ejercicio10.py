@@ -19,7 +19,7 @@ print("# total:",total)
 print("#################################")
 
 #validacion
-mezcla=(mezcla>130)
+mezcla=(total>130)
 
 #condicional simple
 if(mezcla==True):
