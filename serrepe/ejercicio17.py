@@ -15,7 +15,7 @@ tareas_excesivas=(total_tareas>10)
 #impresion
 print("#################################")
 print("##############TAREAS#############")
-print("# alumno:",alumno)
+print("# Alumno:",alumno)
 print("# Trabajos de programacion:",trabajos_de_programacion)
 print("# Trabajos de analisis:",trabajos_de_analisis)
 print("# Trabajos de matematica:",trabajos_de_matematica)
