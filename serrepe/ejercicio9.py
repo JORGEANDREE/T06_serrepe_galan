@@ -14,7 +14,7 @@ mochila_pesada=(mochila_supervivencia>40)
 #impresion
 print("#################################")
 print("##############Mochila#############")
-print("# persona:",persona)
+print("# Persona:",persona)
 print("# litros de agua:",litros_de_agua)
 print("# comida:",comida)
 print("# mochila de supervivencia:",mochila_supervivencia,"Kg")
