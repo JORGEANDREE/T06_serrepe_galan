@@ -13,7 +13,7 @@ aprobado=(promedio>10.5)
 
 #condicional multiple
 if(aprobado==True):
-    print("APROBADO")
+    print("APROBADO¡")
 #fin_if
 else:
     print("desaprobado")
