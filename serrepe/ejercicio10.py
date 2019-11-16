@@ -10,7 +10,7 @@ total_granja=perros+gatos+loros
 #impresion
 print("#################################")
 print("###############GRANJA############")
-print("# nro-perros",perros)
+print("# nro-Perros",perros)
 print("# nro-gatos:",gatos)
 print("# nro-loros:",loros)
 print("# total de animales:",total_granja)
