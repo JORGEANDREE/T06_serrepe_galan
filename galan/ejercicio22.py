@@ -11,7 +11,7 @@ suma_edades=edad_hijo+edad_mama+edad_papa
 #impresion
 print("#################################")
 print("###############EDADES############")
-print("# edad del papa",edad_papa)
+print("# edad del Papa",edad_papa)
 print("# edad de la mama:",edad_mama)
 print("# edad del hijo:",edad_hijo)
 print("# suma de edades:",suma_edades)
