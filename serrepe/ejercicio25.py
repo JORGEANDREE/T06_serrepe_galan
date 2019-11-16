@@ -13,7 +13,7 @@ total=(jabones*pu_jabones)+(shampo*pu_shampo)+(acondicionador*pu_acondicionador)
 #impresion
 print("#################################")
 print("###############COMPRAS###########")
-print("# jabones",jabones,"  p.u:",pu_jabones)
+print("# Jabones",jabones,"  p.u:",pu_jabones)
 print("# shampo:",shampo,"   p.u:",pu_shampo)
 print("# acondicinador:",acondicionador, "  pu:",pu_acondicionador)
 print("# Total:",total,"$")
