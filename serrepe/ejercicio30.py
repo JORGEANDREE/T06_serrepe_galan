@@ -23,6 +23,6 @@ if(total_granja<1):
 if(total_granja>=1 and total_granja<20):
     print("GRANJA casi llena")
 #fin_if
-if(total_granja<=20 and total_granja<50):
+if(total_granja>=20 and total_granja<50):
     print("GRANJA llena")
 #fin_if

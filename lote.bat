@@ -70,3 +70,22 @@ python serrepe/ejercicio23.py "python@g.mail.com" "feliz234" 30 40
 python serrepe/ejercicio24.py "andree" 3 300
 python serrepe/ejercicio24.py "piero" 6 300
 python serrepe/ejercicio24.py "moises" 10 280
+python serrepe/ejercicio25.py  1 3 14 2 4 3
+python serrepe/ejercicio25.py  10 5 17 2 3 5
+python serrepe/ejercicio25.py  10 12 6 6 4 15
+python serrepe/ejercicio26.py "thalia" 6.4 2
+python serrepe/ejercicio26.py "rodrigo" 24.5 2
+python serrepe/ejercicio26.py "jefrry" 7.4 7
+python serrepe/ejercicio26.py "carlos" 100.3 7
+python serrepe/ejercicio27.py "dora" 1 1 1
+python serrepe/ejercicio27.py "jaime" 2 3 4
+python serrepe/ejercicio27.py "elsa" 5 6 6
+python serrepe/ejercicio28.py "tania" "fredyy" 14 31 10 10 10 4
+python serrepe/ejercicio28.py "jorge" "kasandra" 20 15 12 10 12 50
+python serrepe/ejercicio28.py "milagros" "sandra" 34 15 10 30 17 50
+python serrepe/ejercicio9.py "vania"  5 4
+python serrepe/ejercicio9.py "ana"  13 8
+python serrepe/ejercicio9.py "maria"  16 28
+python serrepe/ejercicio30.py 0 0 0
+python serrepe/ejercicio30.py 5  7 6
+python serrepe/ejercicio30.py 12 14 20
