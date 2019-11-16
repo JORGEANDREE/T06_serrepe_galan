@@ -13,7 +13,7 @@ print("#################################")
 print("###############RECICLADORA############")
 print("# residuos platicos",residuos_plasticos)
 print("# residuos de vidrio:",residuos_de_vidrio)
-print("# residuos de papel:",residuos_papel)
+print("# residuos De papel:",residuos_papel)
 print("# total reciclados:",reciclados)
 print("#################################")
 
