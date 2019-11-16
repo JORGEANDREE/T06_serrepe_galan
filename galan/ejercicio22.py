@@ -27,4 +27,4 @@ if(suma_edades>=100 ):
 #fin_if
 if(suma_edades>=1 and suma_edades<100 ):
     print("LA SUMA DE EDADES CASI LLEGA A LOS 100")
-#fin_if
+#fi_if
