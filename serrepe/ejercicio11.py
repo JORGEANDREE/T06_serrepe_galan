@@ -13,7 +13,7 @@ aprobado=(promedio>10.5)
 
 #condicional doble
 if(aprobado==True):
-    print("APROBADO")
+    print("APROBADO¡")
 else:
     print("DESAPROBADO")
 #fin_if
