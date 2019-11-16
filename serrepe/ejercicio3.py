@@ -13,7 +13,7 @@ correos_excesivos=(correos_recibidos+correos_enviados>100)
 #impresion
 print("#################################")
 print("###############GMAIL#############")
-print("# email:",correo)
+print("# Email:",correo)
 print("# contraseña:",contraseña)
 print("####### BIENVENIDO A GMAIL ######")
 print("# correos enviados:",correos_enviados)
