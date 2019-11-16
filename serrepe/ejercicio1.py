@@ -13,5 +13,5 @@ aprobado=(promedio>10.5)
 
 #condicional simple
 if(aprobado==True):
-    print("APROBADO")
+    print("APROBADO!")
 #fin_if
