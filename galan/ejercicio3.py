@@ -14,7 +14,7 @@ print("###############TIENDA ELECTRONICA############")
 print("# N-computadoras",computadoras)
 print("# N-laptops:",laptops)
 print("# N-celulares:",celulares)
-print("# total:",total)
+print("# Total:",total)
 print("#################################")
 
 #validacion
