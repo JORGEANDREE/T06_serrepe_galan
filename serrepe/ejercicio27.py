@@ -12,7 +12,7 @@ total_tareas=trabajos_de_matematica+trabajos_de_analisis+trabajos_de_programacio
 #impresion
 print("#################################")
 print("##############TAREAS#############")
-print("# alumno:",alumno)
+print("# Alumno:",alumno)
 print("# Trabajos de programacion:",trabajos_de_programacion)
 print("# Trabajos de analisis:",trabajos_de_analisis)
 print("# Trabajos de matematica:",trabajos_de_matematica)
