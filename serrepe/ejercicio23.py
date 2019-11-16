@@ -12,7 +12,7 @@ total_correos=correos_recibidos+correos_enviados
 #impresion
 print("#################################")
 print("###############GMAIL#############")
-print("# email:",correo)
+print("# Email:",correo)
 print("# contraseña:",contraseña)
 print("####### BIENVENIDO A GMAIL ######")
 print("# correos enviados:",correos_enviados)
