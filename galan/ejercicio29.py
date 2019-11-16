@@ -17,7 +17,7 @@ print("# residuos de papel:",edad_hijo)
 print("# total reciclados:",reciclados)
 print("#################################")
 
-#condicional simple
+#condicional multiple
 if(reciclados<60):
     print("RECICLA TU PUEDES HACER UN MUNDO MEJOR")
 #fin_if
