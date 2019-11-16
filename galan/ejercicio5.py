@@ -5,7 +5,7 @@ base,altura,area=0.0,0.0,0.0
 #pedir las variables via argumentos
 base=float(os.sys.argv[1])
 altura=float(os.sys.argv[2])
-area=base*area
+area=base*altura
 
 #impresion
 print("#################################")

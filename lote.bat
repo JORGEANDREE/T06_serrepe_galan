@@ -96,8 +96,8 @@ python galan/ejercicio1.py 27.3 68.9 80.0 65.5
 python galan/ejercicio2.py 54 56 23
 python galan/ejercicio2.py 45 39 18
 python galan/ejercicio2.py 50 50 17
-python galan/ejercicio3.py 20 47 50
-python galan/ejercicio3.py 19 30 49
+python galan/ejercicio3.py 40 47 50
+python galan/ejercicio3.py 48 30 49
 python galan/ejercicio3.py 26 17 73
 python galan/ejercicio4.py 20 45 39
 python galan/ejercicio4.py 47 38 19
