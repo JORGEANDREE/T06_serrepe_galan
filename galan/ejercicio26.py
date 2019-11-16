@@ -14,7 +14,7 @@ print("la gravedad es:",gravedad)
 print("el peso es:",peso)
 
 
-#condicional simple
+#condicional multiple
 if(peso<50):
     print("EL PESO ES MINIMO")
 #fin_if
