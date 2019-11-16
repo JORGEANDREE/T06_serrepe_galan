@@ -9,7 +9,7 @@ nro_tickes=dinero//pu_ticket
 #impresion
 print("#################################")
 print("###############JUEGOS############")
-print("# dinero",dinero)
+print("# Dinero",dinero)
 print("# precio unitario del ticket:",pu_ticket)
 print("# NRO ticket:",nro_tickes)
 print("#################################")
