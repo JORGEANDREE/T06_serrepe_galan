@@ -20,9 +20,9 @@ print("#################################")
 if(sueldo>1000):
     print("ganaste un bono de 500 soles")
 #fin_if
-if(sueldo>1200 and sueldo<2000):
+if(sueldo>=1000 and sueldo<2000):
     print("ganaste un bono de 250 soles")
 #fin_if
-if(sueldo>2500 and sueldo<300):
+if(sueldo>=2000 and sueldo<=3000):
     print("ganaste un bono de 100 soles")
 #fin_if

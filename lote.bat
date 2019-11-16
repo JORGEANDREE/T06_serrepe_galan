@@ -61,6 +61,12 @@ python serrepe/ejercicio20.py 15  3 15
 python serrepe/ejercicio21.py 14.3 13.4 15.0
 python serrepe/ejercicio21.py 17. 19.4 18.7
 python serrepe/ejercicio21.py 16.0 16.9 16.0
-python serrepe/ejercicio22.py 200.5 1.3
-python serrepe/ejercicio22.py 400.0 2.0
-python serrepe/ejercicio22.py 500.5 3.3
+python serrepe/ejercicio22.py 10.0 2.0
+python serrepe/ejercicio22.py 40.0 1.5
+python serrepe/ejercicio22.py 60.5 2.5
+python serrepe/ejercicio23.py "jhper@g.mail.com" "3456" 3 5
+python serrepe/ejercicio23.py "derft@g.mail.com" "hol1234" 15 25
+python serrepe/ejercicio23.py "python@g.mail.com" "feliz234" 30 40
+python serrepe/ejercicio24.py "andree" 3 300
+python serrepe/ejercicio24.py "piero" 6 300
+python serrepe/ejercicio24.py "moises" 12 100
