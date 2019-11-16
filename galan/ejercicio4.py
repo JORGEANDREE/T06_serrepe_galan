@@ -14,7 +14,7 @@ print("###############VENTA NAVIDEÑA############")
 print("# N-panetones:",paneton)
 print("# N-empanadas:",empanadas)
 print("# litros de chocolate:",chocolate)
-print("# total$:",total)
+print("# Total$:",total)
 print("########################################")
 
 #validacion
