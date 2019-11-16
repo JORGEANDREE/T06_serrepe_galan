@@ -21,7 +21,7 @@ print("#################################")
 total=(reciclados>100)
 
 #condicional simple
-if(superado==True):
+if(total==True):
     print("RECICLA SALVA EL MUNDO")
 #fin_if
 else:
