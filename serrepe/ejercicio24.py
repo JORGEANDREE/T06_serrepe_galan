@@ -11,7 +11,7 @@ sueldo=meses_trabajando*pago_por_mes
 print("#################################")
 print("###############SUELDO############")
 print("# Trabajador:",trabajador)
-print("# meses de trabajo:",meses_trabajando)
+print("# Meses de trabajo:",meses_trabajando)
 print("# Pago por mes:",pago_por_mes)
 print("# sueldo:",sueldo)
 print("#################################")
