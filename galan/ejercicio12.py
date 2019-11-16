@@ -20,7 +20,7 @@ print("#################################")
 #validacion
 superado=(suma_edades>120)
 
-#condicional simple
+#condicional doble
 if(superado==True):
     print("LA SUMA DE EDADES HA SUPERADO LOS 100 AÑOS")
 #fin_if
