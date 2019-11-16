@@ -18,7 +18,7 @@ print("# suma de edades:",suma_edades)
 print("#################################")
 
 #validacion
-superado=(suma_edades>120)
+superado=(suma_edades>100)
 
 #condicional simple
 if(superado==True):
